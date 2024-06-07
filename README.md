@@ -1,4 +1,4 @@
-# Vue-6th-project
+# Vue-6th-project-in-vue
 
 This template should help get you started developing with Vue 3 in Vite.
 
